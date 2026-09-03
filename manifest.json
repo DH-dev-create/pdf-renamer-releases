@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "latest_version": "1.1.0",
+  "minimum_supported_version": "1.0.0",
+  "release_date": "2026-09-03",
+  "notes": "自己更新機能の動作確認用リリースです。機能変更はありません。",
+  "asset": "releases/1.1.0/PDFRenamer_1.1.0.upd",
+  "asset_signature": "releases/1.1.0/PDFRenamer_1.1.0.upd.sig",
+  "sha256": "fd224c866de34163d82503cae4eb64ac29d40cd113415211b382da40f84ebe05",
+  "size": 59408061
+}
