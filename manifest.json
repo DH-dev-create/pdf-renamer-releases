@@ -1,11 +1,12 @@
 {
   "schema_version": 1,
-  "latest_version": "1.1.1",
+  "latest_version": "1.1.2",
+  "manifest_sequence": 3,
   "minimum_supported_version": "1.0.0",
-  "release_date": "2026-09-03",
-  "notes": "日本語を含むフォルダにアプリを置いた場合、OCRが実行できない問題を修正しました。",
-  "asset": "releases/1.1.1/PDFRenamer_1.1.1.upd",
-  "asset_signature": "releases/1.1.1/PDFRenamer_1.1.1.upd.sig",
-  "sha256": "3710ae4b94f9cbf51a2995c1dfd85f7675113a8241760b731e3a542bb33d4a16",
-  "size": 59380785
+  "release_date": "2026-09-04",
+  "notes": "自己更新の安全性を強化しました（過去の更新情報への差し戻しを検知します）。",
+  "asset": "releases/1.1.2/PDFRenamer_1.1.2.upd",
+  "asset_signature": "releases/1.1.2/PDFRenamer_1.1.2.upd.sig",
+  "sha256": "76be420fe5657faf6befa2e750ed9580fb2131ef20a46804f3d628fca3583254",
+  "size": 59387546
 }
