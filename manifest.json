@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "latest_version": "1.1.3",
-  "manifest_sequence": 4,
+  "latest_version": "1.1.4",
+  "manifest_sequence": 5,
   "minimum_supported_version": "1.0.0",
   "release_date": "2026-09-07",
-  "notes": "自動で確認できなかったPDFもまとめて対象にできる「全件をREADYにする」を追加しました。",
-  "asset": "releases/1.1.3/PDFRenamer_1.1.3.upd",
-  "asset_signature": "releases/1.1.3/PDFRenamer_1.1.3.upd.sig",
-  "sha256": "84b52379bc6ba8493f2ff8816bd0fa12df50fb2743146588bdde2207e83a1d7a",
-  "size": 59391340
+  "notes": "既に正しい名前のPDFも処理対象になり、Google Drive へアップロードされるようにしました。",
+  "asset": "releases/1.1.4/PDFRenamer_1.1.4.upd",
+  "asset_signature": "releases/1.1.4/PDFRenamer_1.1.4.upd.sig",
+  "sha256": "3e1ae57cd0c1f61534329cb25bdc80182c359abbc254dc888a2127b267fcea9a",
+  "size": 59392332
 }
