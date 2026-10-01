@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "latest_version": "1.1.4",
-  "manifest_sequence": 5,
+  "latest_version": "1.2.0",
+  "manifest_sequence": 6,
   "minimum_supported_version": "1.0.0",
-  "release_date": "2026-09-07",
-  "notes": "既に正しい名前のPDFも処理対象になり、Google Drive へアップロードされるようにしました。",
-  "asset": "releases/1.1.4/PDFRenamer_1.1.4.upd",
-  "asset_signature": "releases/1.1.4/PDFRenamer_1.1.4.upd.sig",
-  "sha256": "3e1ae57cd0c1f61534329cb25bdc80182c359abbc254dc888a2127b267fcea9a",
-  "size": 59392332
+  "release_date": "2026-10-01",
+  "notes": "「労働契約書リネーム」モードを追加しました。労働契約書の氏名を読み取り、Google Sheets の社員名簿と照合して「日付_労働契約書_社員番号_氏名.pdf」にリネームします。",
+  "asset": "releases/1.2.0/PDFRenamer_1.2.0.upd",
+  "asset_signature": "releases/1.2.0/PDFRenamer_1.2.0.upd.sig",
+  "sha256": "4a4f24f3297808185847875c23732213cc6d9986f640ef2a69757fe192da7088",
+  "size": 59419337
 }
